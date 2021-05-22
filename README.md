@@ -18,7 +18,9 @@ El proyecto contiene archivos STL para formar la estructura del robot.
 </p>
 
 ### Pinza
+<p align="center">
 <img src="images/image26.jpg" height="300">
+</p>
 
 ### Articulaciones del brazo
 <p align="center">
@@ -33,15 +35,23 @@ El proyecto contiene archivos STL para formar la estructura del robot.
 </p>
 
 ### Base de la carrocería
+<p align="center">
 <img src="images/image32.png" height="300">
+</p>
 
 ### Soporte de la caja
+<p align="center">
 <img src="images/image34.png" height="300">
+</p>
+<p align="center">
 <img src="images/image35.png" width="300">
-
+</p>
+  
 ### Caja con corpantimentos
+<p align="center">
 <img src="images/image37.png" width="300" height="300">
-
+</p>
+  
 ## Reconocimiento de objetos
 Se ha utilizado el lenguaje Python para realizar el reconocimiento e identificación de formas, y se ha importado la librería “opencv” para obtener imágenes de la cámara. Y la librería “imageai” que utiliza “tensorflow”, una librería orientada a construir y entrenar redes neuronales, para utilizar un modelo de reconocimiento de objetos (Yolo).
 
@@ -74,8 +84,10 @@ Se han utilizado las siguientes ruedas para la simulación.
 </p>
 
 ### Ruedas incorporadas en el stl de la caja
+<p align="center">
 <img src="images/image18.png" width="300" height="300">
-
+</p>
+  
 ### Funcionamiento
 
 El robot gira hasta detectar un objeto que le interesa.
