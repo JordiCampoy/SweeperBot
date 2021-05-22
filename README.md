@@ -2,33 +2,33 @@
 
 
 
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image13.jpg?raw=true)
+<img src="images/image13.png">
 
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image14.jpg?raw=true)
+<img src="images/image14.png">
 
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image15.jpg?raw=true)
+<img src="images/image15.png">
 
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image26.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image25.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image27.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image29.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image30.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image32.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image34.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image35.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image37.jpg?raw=true)
-
-
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image4.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image5.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image2.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image24.jpg?raw=true)
-
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image16.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image17.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image18.jpg?raw=true)
+<img src="images/image26.png">
+<img src="images/image25.png">
+<img src="images/image27.png">
+<img src="images/image29.png">
+<img src="images/image30.png">
+<img src="images/image32.png">
+<img src="images/image34.png">
+<img src="images/image35.png">
+<img src="images/image37.png">
 
 
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image8.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image3.jpg?raw=true)
-![alt text](https://github.com/JordiCampoy/SweeperBot/blob/images/image4.jpg?raw=true)
+<img src="images/image4.png">
+<img src="images/image5.png">
+<img src="images/image2.png">
+<img src="images/image24.png">
+
+<img src="images/image16.png">
+<img src="images/image17.png">
+<img src="images/image18.png">
+
+
+<img src="images/image8.png">
+<img src="images/image19.png">
+<img src="images/image3.png">
