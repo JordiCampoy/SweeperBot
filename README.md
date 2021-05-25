@@ -104,5 +104,5 @@ Una vez detectado se acerca a el, lo recoge y lo almacena en el compartimento qu
 </p>
 
 <p align="right">
-  Mas información en el documento: RLP_SPRINT_4_Grupo13.pdf
+  Mas información en el documento: RLP_SPRINT_5_Grupo13.pdf
 </p>
