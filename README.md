@@ -1,12 +1,51 @@
+## Índice de contenidos
+* [¿Qué es SweeperBot?](#SweeperBot)
+* [Instalación de dependencias](#instalar)
+* [Arquitectura HW](#HW)
+* [Diseño de las piezas 3D](#Diseño3D)
+* [Simulación](#Funcionamientos)
+
+<a name="SweeperBot"></a>
 # SweeperBot
 
 SweeperBot es un robot autónomo diseñado para ayudar en el ámbito medioambiental, y que es el producto final de una idea que garantiza una mayor sostenibilidad del entorno que nos rodea. 
 Para llevar a cabo su cometido, el robot se contempla como un vehículo autónomo, de manera que pueda moverse libremente y sin ningún tipo de supervisión para la búsqueda de residuos. Para la recolección de estos, el robot dispone de un brazo mecánico con pinza, esta le permitirá agarrar los desechos y soltarlos en unos compartimentos a modo de reciclaje. 
 
+<a name="instalar"></a>
+### Instalación de las dependencias
 
+- Tensorflow(Version: 2.4.1):  pip install tensorflow
+- Imageai(Version: 2.1.6): pip install imageai
+- Keras(Version: 2.1.6): pip install keras
+- opencv2(Version 2.4.9): pip install opencv-python
+- numpy(Version: 1.20.3): pip install numpy
+- sympy(Version: 4.0.1): pip install simpy
+- Yolo.h5 (https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5)
+
+<a name="HW"></a>
+### Arquitectura HW
+<p align="center">
+<img src="images/componentes.PNG" height="300">
+  
+  **Movimiento del vehículo**
+  
+Se han conectado los dos motores de las ruedas al controlador L298 junto con la corriente de las 4 pilas de 1,5 Voltios, este controlador actúa de intermediario entre la Raspberry y los movimientos del vehículo. El controlador se ha conectado también a la Raspberry Pi. 
+
+  **Cinemática inversa del brazo**
+  
+Los 3 motores utilizados para mover el brazo en el plano de 3 ejes, y el servomotor que controla la apertura de la pinza se han conectado a la placa i2c, esta facilita la comunicación entre la raspberry y los componentes. La placa i2c está conectada a 4 pilas de 1,5 Voltios y a la Raspberry Pi. 
+
+  **Reconocimiento de objetos**
+  
+La cámara es alimentada por dos pilas de 1,5 Voltios y controlada directamente por la Raspberry.
+
+</p>
+
+<a name="Diseño3D"></a>
 ## Diseño 3D
 
 El proyecto contiene archivos STL para formar la estructura del robot.
+
 
 ### Robot montado
 <p align="center">
@@ -87,7 +126,8 @@ Se han utilizado las siguientes ruedas para la simulación.
 <p align="center">
 <img src="images/image18.png" width="300" height="300">
 </p>
-  
+
+<a name="Funcionamientos"></a>
 ### Funcionamiento
 
 El robot gira hasta detectar un objeto que le interesa.
@@ -96,13 +136,14 @@ El robot gira hasta detectar un objeto que le interesa.
 <img src="images/image8.png" height="300">
 </p>
 
-Una vez detectado se acerca a el, lo recoge y lo almacena en el compartimento que le pertoque.
+Una vez detectado se acerca a él, lo recoge y lo almacena en el compartimento que le pertoque.
 
 <p align="center">
 <img src="images/image19.png" height="300">
 <img src="images/image3.png" height="300">
 </p>
 
-<p align="right">
-  Mas información en el documento: RLP_SPRINT_5_Grupo13.pdf
+<p>
+  El siguiente enlace contiene el video promocional de SweeperBot (https://youtu.be/OWggp3zetLo)
 </p>
+
