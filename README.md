@@ -111,6 +111,7 @@ Los datos de cada objeto se gestionan con Python como una lista de diccionarios.
 <img src="images/image24.png" height="200">
 </p>
 
+<a name="Funcionamientos"></a>
 ## Simulación
 
 Se ha simulado el comportamiento del robot con CoppeliaSim para recrear un espacio con una serie de diferentes objetos, que se interponen en el camino del robot. Éste, pudiendo detectarlos, recogerlos y almacenarlos en los compartimentos correspondientes, simula su correspondiente actuación. 
@@ -127,7 +128,6 @@ Se han utilizado las siguientes ruedas para la simulación.
 <img src="images/image18.png" width="300" height="300">
 </p>
 
-<a name="Funcionamientos"></a>
 ### Funcionamiento
 
 El robot gira hasta detectar un objeto que le interesa.
